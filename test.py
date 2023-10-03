@@ -1,0 +1,1 @@
+print("Navjot Singh")
